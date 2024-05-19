@@ -343,8 +343,7 @@ Features22.defaultProps = {
   heading1: 'Features',
   feature2Title: 'Event Discovery',
   feature5Title: 'Heading',
-  content1:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.',
+  content1: 'hello',
   feature5Description:
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.',
   feature7Description:
